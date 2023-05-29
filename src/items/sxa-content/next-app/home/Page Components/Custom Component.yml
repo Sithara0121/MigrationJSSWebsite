@@ -1,0 +1,40 @@
+﻿---
+ID: "b2abe55a-1f69-43b1-b52b-d50e31e3a08c"
+Parent: "f369da68-0b50-5de9-b718-0306ce3a0be7"
+Template: "7409a309-157b-47cf-a0b1-150d48dc76ef"
+Path: "/sitecore/content/DemoNextjsTenant/next-app/home/Page Components/Custom Component"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230522T105547Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cefbd04e-7754-4fc2-a549-3dd7049944a9"
+    - ID: "b5e7b2ce-c02f-4259-8eb9-d4b409b34cab"
+      Hint: Header
+      Value: Nextjs Component
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "c7c29d02-b6ea-4340-842f-bc38f6a427a0"
+      Hint: Description
+      Value: |
+        This walkthrough assumes you have set up your project using the Sitecore Containers for Next.js dotnet new template with a project called MyProject.
+        
+        The walkthrough explains how to:
+        
+        Create the JSON rendering in Sitecore.
+        
+        Verify the rendering's JSON output.
+        
+        Verify the rendering's JSON output.
+        
+        Fill out values in the Experience Editor.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230522T105622Z

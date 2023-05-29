@@ -1,0 +1,54 @@
+﻿---
+ID: "569d6e30-2ff3-5792-81d8-8e5fcd10cb67"
+Parent: "f369da68-0b50-5de9-b718-0306ce3a0be7"
+Template: "7409a309-157b-47cf-a0b1-150d48dc76ef"
+Path: "/sitecore/content/DemoNextjsTenant/next-app/home/Page Components/home-headless-main-Custom1-1"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Custom1-1"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230523T111730Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{AF32C98B-C828-42AF-A649-74C1DE3303FB}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\JssImport
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bd7a4d47-ead6-4fdd-95b4-926c4c8a4254"
+    - ID: "b5e7b2ce-c02f-4259-8eb9-d4b409b34cab"
+      Hint: Header
+      Value: NextJS Component
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "c7c29d02-b6ea-4340-842f-bc38f6a427a0"
+      Hint: Description
+      Value: |
+        <h4></h4><h4>How to start with an empty app</h4>
+          <p>To start with a fresh app with no boilerplate, run <code>npx create-sitecore-jss</code> and don't select any add-ons. Note, disconnected mode is not supported this way</p>
+          <p>To remove all of the default sample content (the Styleguide and GraphQL routes) and start out with an empty JSS app:</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230524T101814Z

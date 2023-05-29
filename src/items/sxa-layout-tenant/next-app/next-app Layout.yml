@@ -1,0 +1,41 @@
+﻿---
+ID: "b71cec14-8c9d-57b1-8684-0538616c4151"
+Parent: "095c3372-58bb-50e1-bc61-a612840a41dc"
+Template: "35c61e90-47dd-43dd-83a8-d1c4d5119720"
+Path: "/sitecore/layout/Layouts/Project/next-app/next-app Layout"
+SharedFields:
+- ID: "80334869-86dc-4472-aa89-44cf1b2f6c9b"
+  Hint: Placeholders
+  Value: |
+    {BE12765A-B6D7-566B-A694-3994679820A4}
+    {7DB68A88-A8B6-5E85-AE13-311656B7354F}
+    {3667455A-F8D0-5FBA-BD24-349CC1C0C151}
+- ID: "9c6106ea-7a5a-48e2-8cad-f0f693b1e2d4"
+  Hint: __Read Only
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230519T113224Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\JssImport
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f7ec24ae-755d-4b08-8734-540ce7f5a425"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230522T061554Z

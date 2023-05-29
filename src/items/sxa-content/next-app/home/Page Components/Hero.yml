@@ -1,0 +1,38 @@
+﻿---
+ID: "7682f6c7-92a4-4f48-863f-0d292788e2a2"
+Parent: "f369da68-0b50-5de9-b718-0306ce3a0be7"
+Template: "f8644a75-3a51-48c4-b4fd-73af365442dc"
+Path: "/sitecore/content/DemoNextjsTenant/next-app/home/Page Components/Hero"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "010f628d-2cfd-4378-b7ce-8477193b55be"
+      Hint: herotext
+      Value: |
+        <h1>BIG BANG</h1>
+        <p>E UEFA EURO</p>
+        <p>2020 &trade;</p>
+        <p>BUY NOW-ONLINE EXCLUSIVE</p>
+        <span></span>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230522T125909Z
+    - ID: "422403d1-dcb4-4474-867f-b2e2c91bf02e"
+      Hint: heroimg
+      Value: |
+        <image mediaid="{D1CF0455-0BB9-4A98-864C-6CEB61C22DB6}" />
+    - ID: "73f0bdb9-190c-4d99-a620-f9d07a305796"
+      Hint: buttontext
+      Value: Explore More..
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5c1a758a-50c6-4754-9269-022cfd9d17ba"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230522T143302Z

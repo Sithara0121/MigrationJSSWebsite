@@ -1,0 +1,29 @@
+﻿---
+ID: "55774f01-27f1-4563-9b8b-10bf82031d9c"
+Parent: "8a75283e-184d-4f8b-900c-4f1b59958830"
+Template: "8a75283e-184d-4f8b-900c-4f1b59958830"
+Path: /sitecore/templates/Project/DemoNextjsTenant/Partial Design Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {8A75283E-184D-4F8B-900C-4F1B59958830}
+    {FD2059FD-6043-4DFE-8C04-E2437CE87634}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230516T071139Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e18cee6f-008b-49c2-9051-13bd33e2fcf8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230516T071140Z

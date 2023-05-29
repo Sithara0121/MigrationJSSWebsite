@@ -1,0 +1,59 @@
+﻿---
+ID: "f81c60a2-7c86-598e-9843-7f34f2be7fc2"
+Parent: "e58c0efb-9d5b-587a-ae1d-ec2f679a1ab6"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: "/sitecore/layout/Placeholder Settings/Project/next-app/jss-styleguide-section"
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: "jss-styleguide-section"
+- ID: "9c6106ea-7a5a-48e2-8cad-f0f693b1e2d4"
+  Hint: __Read Only
+  Value: 1
+- ID: "e391b526-d0c5-439d-803e-17512eae6222"
+  Hint: Allowed Controls
+  Value: |
+    {69FB073C-1DCB-53F9-9852-D36F529176D5}
+    {600BE828-FB09-5F36-B0E9-0A320BBC955F}
+    {90637EBC-466E-5EE1-B6BD-80908C629491}
+    {0C603506-40F1-545A-8427-58F0F37C7094}
+    {609667F8-4D35-5B84-87A8-1912116F65C4}
+    {18EDF44B-EB6E-51E1-8507-37A7F6407B73}
+    {5B206075-DC8D-50EB-8187-FFAB3B5C6CB5}
+    {4B27C689-C75D-54B3-9C3B-A83ABA063FA5}
+    {B142F1AA-A131-569D-9367-5117BF2A0880}
+    {E1C56598-F474-5C94-BC6B-6F93E5A18245}
+    {4152C02F-0FDB-51F0-8080-611156F16077}
+    {5CFDCA3A-D585-5421-B205-3B06F05FBCB9}
+    {4A042522-CFB3-56A1-9077-5D597E979C33}
+    {A9E3CBC8-E3F1-5A42-BDE6-7885CB906FD5}
+    {2BF08549-DC8E-5750-9993-F07123344AE4}
+    {BB2511B8-14D1-5FE3-89A0-0D4E9BE9503F}
+    {EAC70281-0D60-56D6-8633-E1A79D433783}
+    {C1998CA2-1492-554A-960F-9BFAB689ECA7}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230519T113222Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\JssImport
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f0619625-6147-4391-b288-dc5193eb5259"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230519T113229Z

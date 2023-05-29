@@ -1,0 +1,29 @@
+{
+  "$schema": "../.sitecore/schemas/ModuleFile.schema.json",
+  "namespace": "MigrationJSSWebsite",
+  "references": [ "InitItems" ],
+  "items": {
+    "includes": [
+      {
+        "name": "sxa-layout-tenant",
+        "path": "/sitecore/layout/Layouts/Project/next-app"
+      },
+      {
+        "name": "sxa-renderings-tenant",
+        "path": "/sitecore/layout/Renderings/Project/next-app"
+      },
+      {
+        "name": "sxa-placeholders-tenant",
+        "path": "/sitecore/layout/Placeholder Settings/Project/next-app"
+      },
+      {
+        "name": "templates-tenant",
+        "path": "/sitecore/templates/Project/DemoNextjsTenant"
+      },
+      {
+        "name": "templates-site",
+        "path": "/sitecore/templates/Project/next-app"
+      }
+    ]
+  }
+}

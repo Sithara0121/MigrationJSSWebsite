@@ -1,0 +1,87 @@
+﻿---
+ID: "fa0b568a-2432-55ec-bd13-bf1967b8c2fd"
+Parent: "2cba51f5-47c1-5713-ae42-68c0fd950af7"
+Template: "2cba51f5-47c1-5713-ae42-68c0fd950af7"
+Path: "/sitecore/templates/Project/next-app/App Route/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{2CBA51F5-47C1-5713-AE42-68C0FD950AF7}"
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{B71CEC14-8C9D-57B1-8684-0538616C4151}">
+        <p
+          uid="{10548C76-BFC3-57DC-BD70-B176DC560103}"
+          key="jss-main"
+          md="{33B67A0D-8C5F-586A-B8C7-364B71871E1B}" />
+        <p
+          uid="{E1824BD9-CD69-5BE3-ACD8-F7EC5CB68397}"
+          key="jss-tabs"
+          md="{F95B6EA2-D6EC-5E56-A41F-0B284AAB2D55}" />
+        <p
+          uid="{A618F09A-11C6-562F-A14D-2F35392E84AB}"
+          key="headless-main"
+          md="{7DB68A88-A8B6-5E85-AE13-311656B7354F}" />
+        <p
+          uid="{2BFB0069-17A2-5C1C-A5DA-43EA1FD3C4B1}"
+          key="jss-graphql-layout"
+          md="{61F81BB3-F16F-5F9C-A29F-29A28FF7050C}" />
+        <p
+          uid="{4741490B-6484-51A7-8CBF-9960C36B3D34}"
+          key="jss-styleguide-layout"
+          md="{1D362C8B-C580-5E1F-8C7D-C8CB1A1AD3BC}" />
+        <p
+          uid="{4F38EBA6-EB39-5C3A-862A-3228676CA49D}"
+          key="jss-styleguide-section"
+          md="{F81C60A2-7C86-598E-9843-7F34F2BE7FC2}" />
+        <p
+          uid="{9A8D408C-67D7-5785-AF65-3F10A228854D}"
+          key="jss-header"
+          md="{7C6CC4D9-24B8-5D79-8A72-3D8406164E8D}" />
+        <p
+          uid="{2FD279A6-CD6B-5AEF-AE79-AFACB6F4D516}"
+          key="jss-reuse-example"
+          md="{A447D021-6901-5833-B35C-6AE9580D64C9}" />
+        <p
+          uid="{FA70023F-8A3B-5D27-878A-178D4E0A501F}"
+          key="headless-header"
+          md="{BE12765A-B6D7-566B-A694-3994679820A4}" />
+        <p
+          uid="{15C787F6-1A69-5792-B0BB-AEBC5CD62DB9}"
+          key="headless-footer"
+          md="{3667455A-F8D0-5FBA-BD24-349CC1C0C151}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230519T113211Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\JssImport
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "826220ee-f46f-4ad6-8035-8220c27f0659"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230523T111730Z

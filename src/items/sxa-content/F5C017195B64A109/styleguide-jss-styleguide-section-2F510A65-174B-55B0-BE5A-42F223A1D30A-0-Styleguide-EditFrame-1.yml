@@ -1,0 +1,45 @@
+﻿---
+ID: "57574c93-46ee-508f-b6a7-1cfd33f5ba48"
+Parent: "7da4f9e1-8e0b-5c70-8bb0-f86e6f01f421"
+Template: "faa88446-0b35-5398-8531-30dfbc585a55"
+Path: "/sitecore/content/DemoNextjsTenant/next-app/home/styleguide/Page Components/styleguide-jss-styleguide-section-2F510A65-174B-55B0-BE5A-42F223A1D30A-0-Styleguide-EditFrame-1"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-EditFrame-1"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230519T113229Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a09263bd-bf23-451e-bf66-378757169723"
+    - ID: "9347422f-8f68-5ba5-ba8d-273d6ff396e1"
+      Hint: sampleList
+      Value: |
+        {52159BFB-7102-5BDA-A2AA-8FE9EA3065A8}
+        {F51B21C3-2773-5F0B-BCB8-BA6AD9BD9E40}
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230519T113229Z
+    - ID: "dd0b7861-d119-5d7b-b3d0-654a0755012d"
+      Hint: heading
+      Value: Edit Frame
+    - ID: "f80edf27-754f-5946-b971-51ebcd0e88af"
+      Hint: description
+      Value: "<p>Who framed Roger Rabbit? Hard to say. <br /> But JSS now allows to edit frame any piece of content on a page in editing mode. <br /> You can add web edit or field edit buttons, modify edit frame style through CSS class and put the frame wherever you need it. </p>"

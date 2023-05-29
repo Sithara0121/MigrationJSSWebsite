@@ -1,0 +1,37 @@
+﻿---
+ID: "f51b21c3-2773-5f0b-bcb8-ba6ad9bd9e40"
+Parent: "55adc1fb-2a13-5c0e-8312-28826f4900e2"
+Template: "2538de46-f78b-5585-a4b0-9d3d844e0fea"
+Path: "/sitecore/content/DemoNextjsTenant/next-app/Content/Styleguide/EditFrameDemo/Item2"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: EditFrame Demo List Item 2
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230519T113225Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a8d97c7c-886e-453e-8434-6d4508c4199c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d78ee0ab-8af4-583f-b426-7ff774adf936"
+      Hint: title
+      Value: Edit Frame Demo List Item 2
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230519T113225Z

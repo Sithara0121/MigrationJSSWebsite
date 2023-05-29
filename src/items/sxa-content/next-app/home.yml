@@ -1,0 +1,79 @@
+﻿---
+ID: "28b874bc-4e3e-42de-906b-c7795621e4e1"
+Parent: "dc97b38a-0a0e-47ac-826f-b9f3dc51cef8"
+Template: "41b904aa-6444-4f02-b6ce-f879f3e49bdd"
+Path: "/sitecore/content/DemoNextjsTenant/next-app/home"
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{F558BEC9-C602-4D7A-B9A1-D0411C946EA4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+            s:l="{B71CEC14-8C9D-57B1-8684-0538616C4151}">
+            <r
+              uid="{DB1F17EA-7F63-5C75-94E9-5DF0719226DA}"
+              p:before="*"
+              s:rname="Custom1"
+              s:ds="{569D6E30-2FF3-5792-81D8-8E5FCD10CB67}"
+              s:id="{06548A1C-2D13-4ABA-BA94-EF630262A017}"
+              s:par=""
+              s:ph="/headless-main" />
+            <r
+              uid="{2B3EFFC8-880D-4CB1-B632-E6DE9B04D07D}"
+              p:after="r[@uid='{DB1F17EA-7F63-5C75-94E9-5DF0719226DA}']"
+              s:ds="{7682F6C7-92A4-4F48-863F-0D292788E2A2}"
+              s:id="{D4C6B95B-7493-48E6-8253-AE9F9D34B7F6}"
+              s:par="GridParameters&amp;FieldNames&amp;Styles"
+              s:ph="/headless-main"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{412B2819-932E-5D51-A4F6-3D68149259B9}"
+              p:after="*[1=2]"
+              s:rname="ContentBlock"
+              s:ds="{40DB6DD1-1C27-5342-81C6-32718256B205}"
+              s:id="{0B41E510-585D-5B99-924B-F1951BA131F3}"
+              s:par=""
+              s:ph="/headless-main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230519T112327Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "next-app"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5d2f0e3e-56d8-48da-9b4f-6db350dd92a1"
+      Hint: Title
+      Value: "next-app"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "267638e1-3b55-424e-99a8-5dac5de6b68b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230524T102328Z

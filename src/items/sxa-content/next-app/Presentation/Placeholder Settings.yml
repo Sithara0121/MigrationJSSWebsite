@@ -1,0 +1,23 @@
+﻿---
+ID: "817f3f22-3b68-4d92-b53b-7a914412e9b2"
+Parent: "76d03de1-f4c7-4e46-866c-56893a763917"
+Template: "52288e39-7830-4694-b62d-32a54c6ef7ba"
+Path: "/sitecore/content/DemoNextjsTenant/next-app/Presentation/Placeholder Settings"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230519T112329Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d8d06ab9-59ed-47c3-931a-9890a09dd16f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230519T112329Z
