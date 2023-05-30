@@ -19,7 +19,7 @@ Languages:
     - ID: "1748ce97-dc6c-5e89-b439-31b3dcfc04b2"
       Hint: file
       Value: |
-        <file mediaid="{6930B22C-7B91-5D4A-B68D-736E94951323}" />
+        <file mediaid="{6930B22C-7B91-5D4A-B68D-736E94951323}" src="-/media/6930B22C7B915D4AB68D736E94951323.ashx" />
     - ID: "1d1e3f95-f0d8-5375-998e-9f3093c9729b"
       Hint: heading
       Value: File
@@ -36,11 +36,11 @@ Languages:
         
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "431fac32-7766-44b5-8665-b84f5292d2a9"
+      Value: "aefc4afc-14c5-4841-b5f7-ae1de3be5a0b"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\JssImport
+        sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230519T113227Z
+      Value: 20230530T144948Z

@@ -22,17 +22,17 @@ Languages:
     - ID: "422403d1-dcb4-4474-867f-b2e2c91bf02e"
       Hint: heroimg
       Value: |
-        <image mediaid="{D1CF0455-0BB9-4A98-864C-6CEB61C22DB6}" />
+        <image mediaid="{D0725CDB-D9FE-48BB-AEBB-0167384689C6}" />
     - ID: "73f0bdb9-190c-4d99-a620-f9d07a305796"
       Hint: buttontext
       Value: Explore More..
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "5c1a758a-50c6-4754-9269-022cfd9d17ba"
+      Value: "5c646714-9cb7-4bf5-b5b9-aca7f2d32198"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\admin
+        sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230522T143302Z
+      Value: 20230530T153957Z

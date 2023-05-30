@@ -7,7 +7,7 @@ BranchID: "2d3805b9-3089-44f3-b952-d45c44add7f8"
 SharedFields:
 - ID: "102b58da-2a86-4953-b3cd-c9f91256b657"
   Hint: PlaceholderSettingsFolder
-  Value: "{27EE28BB-2EA8-4493-A471-FE89214FCF5E}"
+  Value: "{E58C0EFB-9D5B-587A-AE1D-EC2F679A1AB6}"
 - ID: "1230d2cb-4948-4d43-8a3b-b39978f6f1b3"
   Hint: Modules
   Value: |
@@ -28,7 +28,7 @@ SharedFields:
   Value: "{AD1237DB-CDD2-5A41-B37B-466ADC06FFE9}"
 - ID: "9c596379-f8d4-45d1-a064-cdf1ede2e7c7"
   Hint: Templates
-  Value: "{F0AAFFC4-916B-4D9B-AB6A-ABFE2165EED6}"
+  Value: "{922DB6C8-95CA-58FE-A7E4-7E89D5DBFA01}"
 - ID: "e90a4413-c111-4951-9b6a-00c4ce7fb289"
   Hint: MediaLibrary
   Value: "{248F37D9-5EE1-4174-B6F7-60EE0BECB4C6}"
@@ -53,11 +53,11 @@ Languages:
         sitecore\admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "adcbf2b0-72fb-4cb3-ab4e-ae8a90f17336"
+      Value: "396830a3-14f8-4ade-b7be-f52f65afb0b2"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230526T110619Z
+      Value: 20230530T143758Z

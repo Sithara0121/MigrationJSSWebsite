@@ -302,11 +302,11 @@ Languages:
       Value: Styleguide | Sitecore JSS
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "6260c967-df0f-4680-b626-bbf84483959c"
+      Value: "cce4b739-e0fb-490e-a3f1-b5f1a1bf9e12"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\JssImport
+        sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230523T111730Z
+      Value: 20230530T144948Z

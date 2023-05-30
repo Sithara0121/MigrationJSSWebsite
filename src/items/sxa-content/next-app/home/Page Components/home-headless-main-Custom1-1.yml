@@ -35,20 +35,17 @@ Languages:
         sitecore\JssImport
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "bd7a4d47-ead6-4fdd-95b4-926c4c8a4254"
+      Value: "5f079164-7285-4ca3-b67f-55f8584c86e0"
     - ID: "b5e7b2ce-c02f-4259-8eb9-d4b409b34cab"
       Hint: Header
       Value: NextJS Component
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\admin
+        sitecore\Admin
     - ID: "c7c29d02-b6ea-4340-842f-bc38f6a427a0"
       Hint: Description
-      Value: |
-        <h4></h4><h4>How to start with an empty app</h4>
-          <p>To start with a fresh app with no boilerplate, run <code>npx create-sitecore-jss</code> and don't select any add-ons. Note, disconnected mode is not supported this way</p>
-          <p>To remove all of the default sample content (the Styleguide and GraphQL routes) and start out with an empty JSS app:</p>
+      Value: The official JSS documentation can help you with any JSS task from getting started to advanced techniques.
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230524T101814Z
+      Value: 20230529T131054Z
