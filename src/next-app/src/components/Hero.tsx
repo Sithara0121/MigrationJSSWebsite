@@ -1,10 +1,11 @@
 import React, { FC } from 'react';
-import { RichText, Image } from '@sitecore-jss/sitecore-jss-react';
+import { RichText, Image, Field } from '@sitecore-jss/sitecore-jss-react';
+import { ImageField } from '@sitecore-jss/sitecore-jss-nextjs';
 import styles from '../styles.module.css';
 interface HeroProps {
   fields: {
-    heroimg: any;
-    herotext: any;
+    heroimg: ImageField;
+    herotext: Field<string>;
   };
 }
 

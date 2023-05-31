@@ -2,10 +2,10 @@ import { Text, Field, RichText } from '@sitecore-jss/sitecore-jss-nextjs';
 
 type Custom1 = {
   fields: {
-    Header: Field<string>,
-    Description: Field<string>  
+    Header: Field<string>;
+    Description: Field<string>;
   };
-}
+};
 
 const Custom1 = (props: Custom1): JSX.Element => (
   <div>
