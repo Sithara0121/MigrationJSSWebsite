@@ -14,12 +14,7 @@
         "path": "/sitecore/system/Settings/Services/API Keys/NextjsJssapikey",
         "scope": "singleItem"
       },
-	   {
-        "name": "DefaultRenderingHost",
-        "path": "/sitecore/system/Settings/Services/Rendering Hosts/Default",
-        "scope": "singleItem"
-      },
-      {
+	    {
         "name": "languages",
         "path": "/sitecore/system/Languages",
         "scope": "descendantsOnly",
