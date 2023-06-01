@@ -7,7 +7,7 @@
             "enabled": true,
             "type": "jss",
             "lintCommand": "lint",
-            "startCommand": "start:production"
+            "startCommand": "start:production",
         "buildCommand": "build",
         "runCommand": "next:start"
         }
